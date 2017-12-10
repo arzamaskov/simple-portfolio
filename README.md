@@ -8,4 +8,4 @@ cover background-color: dcdee0
 background-color: ffffff  
 photo base: dcdee0  
 opacity: 75%  
-font-size: 12px  
+font-size: 12px, 60px  
